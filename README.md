@@ -1,5 +1,5 @@
 # Quickmotions
-![](https://komarev.com/ghpvc/?username=your-github-username&color=red)
+![](https://komarev.com/ghpvc/?username=Quickmotions&color=red)
 # Github
 I try and stay active on github\
 \
