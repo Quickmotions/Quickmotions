@@ -1,4 +1,4 @@
-# Quickmotions
+# Fergus | Fungus
 ![](https://komarev.com/ghpvc/?username=Quickmotions&color=red)
 # Github
 \
