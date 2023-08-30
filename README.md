@@ -1,5 +1,5 @@
-# Fergus | Fungus
-![](https://komarev.com/ghpvc/?username=Quickmotions&color=red) \
+# Fergus | Fungus ![](https://komarev.com/ghpvc/?username=Quickmotions&color=red) \
+
 `whoami` Student at Edinburgh Napier University studying Cyber Security and Forensics
 
 `uptime` 19 years
