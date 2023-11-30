@@ -2,8 +2,6 @@
 
 `whoami` Student at Edinburgh Napier University studying Cyber Security and Forensics
 
-`uptime` 19 years
-
 `pwd` Edinburgh, United Kingdom
 
 `ps -a` Learning image processsing and manipulation using openCV
