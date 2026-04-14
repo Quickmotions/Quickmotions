@@ -1,10 +1,10 @@
 # Fergus | Fungus ![](https://komarev.com/ghpvc/?username=Quickmotions&color=red)
 
-`whoami` Student at Edinburgh Napier University studying Cyber Security and Forensics
+`whoami` Comp Sci Student
 
 `pwd` Edinburgh, United Kingdom
 
-`ps -a` Learning image processsing and manipulation using openCV
+`ps -a` Tinkering with web and computer vision
 
 
 # Github
